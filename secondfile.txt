@@ -1,1 +1,1 @@
-this is my second project file in my repository and this project is in main branch
+this is my second project file in my repository and this project is in main branch and used in project
